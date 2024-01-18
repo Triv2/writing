@@ -4,6 +4,9 @@ This will be a living document of all the different types of animation systems I
 
 ## TailwindCSS-Animated 
 
+[Documentation](https://www.tailwindcss-animated.com/)
+
+
 TailwindCSS comes with a few animations built in, but they are pretty simple. This is my favorite package for extending those animations, it's simple and lightweight.
 It also comes with a fun to use [editor](https://www.tailwindcss-animated.com/configurator.html)
 
@@ -35,4 +38,3 @@ module.exports ={
 - Paste the TailwindCSS classes in the desired component className.
 - Enjoy!
 
-[Documentation](https://www.tailwindcss-animated.com/)
