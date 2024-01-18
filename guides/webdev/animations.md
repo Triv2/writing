@@ -8,7 +8,9 @@ TailwindCSS comes with a few animations built in, but they are pretty simple. Th
 It also comes with a fun to use [editor](https://www.tailwindcss-animated.com/configurator.html)
 
 ### Install
-```npm i tailwindcss-animated```
+```
+npm i tailwindcss-animated
+```
 ### Setup
 1. Add the plugin to the tailwind.config.ts file.
 ```typescript
