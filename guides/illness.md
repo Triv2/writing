@@ -78,7 +78,7 @@ Only downside for me atleast, is I think my body built up a resistance to it bec
 
 - Breathing exercises, these help calm down the body and de-stress it. Since our intestines have a neural link to our brain(why GI illnesses have heavy link to mental illness), de-stress and reducing anxiety can decrease the tension in the intestines. 
 - Other meditation practices work well since they all have do deal with lowering heart-rate, blood-pressure, oxygen levels and basically relaxing the body. 
-- If having more stomach issues than intestinal issues, dieting might be more of a factor. Would look into what diets cause the least amount of strain on the stomach. Dieting is huge in this illness, pay attention to what you eat. We are all different, so we have to map it out with trial and error.
+- If having more stomach issues than intestinal issues, dieting might be more of a factor. Would look into what diets cause the least amount of strain on the stomach. Dieting is huge in this illness, pay attention to what you eat and how it makes you feel. We are all different, so we have to map it out with trial and error.
 
 
 
