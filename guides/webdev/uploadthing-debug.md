@@ -49,8 +49,6 @@ export default authMiddleware({
 ![image](https://github.com/Triv2/writing/assets/126743500/7c09ab58-6681-42df-a979-4f71f32db6f4)
 
 ```typescript
-next.config.js
-
 images: {
     domains: [
       "uploadthing.com",
