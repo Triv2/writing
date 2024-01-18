@@ -1,6 +1,7 @@
 # List of Databases
 
-SQL:
+## SQL
+
 1. Cockroachdb - https://www.cockroachlabs.com/
 2. Aiven - https://aiven.io/
 3. Convex-https://www.convex.dev/
@@ -14,7 +15,7 @@ SQL:
 11. PostgreSQL- https://www.postgresql.org/
 
 
-NoSQL:
+## NoSQL
 1. MongoDB - https://www.mongodb.com/
 2. AstraDB - https://www.datastax.com/products/datastax-astra
 3. Orientdb - https://orientdb.org/
