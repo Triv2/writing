@@ -1,6 +1,6 @@
 # Uploadthing - Debug Guide
 
-Documentation: https://docs.uploadthing.com/nextjs/appdir
+[Documentation](https://docs.uploadthing.com/nextjs/appdir)
 
 *First update your node version to 18.16 or higher. Users with older versions of node have reported issues with newer versions of uploadthing.*
 
@@ -14,7 +14,7 @@ Documentation: https://docs.uploadthing.com/nextjs/appdir
 
 
 2. `/app/api/uploadthing/route.ts` 
->Creates an API route for the FileRouter to use.*
+>Creates an API route for the FileRouter to use.
 
 ![image](https://github.com/Triv2/writing/assets/126743500/3a7844a9-b1b6-467f-9513-df38de01741d)
 
