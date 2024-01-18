@@ -6,7 +6,7 @@
 
 Reset your system time to sync it with clerk by turning off automatic updates and turning it back on.
 
-##Setup
+## Setup
 
 1. Clerk NPM package has been installed using:
 ```coffeescript 
