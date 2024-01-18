@@ -2,7 +2,7 @@
 Something that isn't always necessary but can be useful depending on the project's needs. 
 This will be a living document of all the different types of animation systems I've found and how to configure them.
 
-## TailwindCSS-Animated Guide
+## TailwindCSS-Animated 
 
 TailwindCSS comes with a few animations built in, but they are pretty simple. This is my favorite package for extending those animations, it's simple and lightweight.
 It also comes with a fun to use [editor](https://www.tailwindcss-animated.com/configurator.html)
