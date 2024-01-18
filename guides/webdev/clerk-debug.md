@@ -1,6 +1,6 @@
  # Debugging Clerk for Next.js 14 App Router
 
-Documentation: https://clerk.com/docs/quickstarts/nextjs
+[Documentation](https://clerk.com/docs/quickstarts/nextjs)
 
 *Upgrade node version to 18.16 LTS or more recent, prior node versions have reported clerk components not rendering correctly.*
 
