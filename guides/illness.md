@@ -9,11 +9,11 @@ or possibly a mixture of the two.</p>
 <p>My GI says the latest information is pointing to it being some strange hard to detect foreign invader(bacteria, viral, fungal, or something new) that’s potentially taking advantage of a genetic mutation.</p>
 <p>Either way what happens is the body has a flagging system for immune responses, we have these cells called B-Cells that have a bunch of variants that are used for signifying to the body 
 what type of response to give.</p> 
-Whenever we have this illness it tricks our bodies into sending out the wrong immune system response. It flags healthy areas of the intestines as bacteria/foreign instead of the other localized bacteria within the intestines. 
+<p>Whenever we have this illness it tricks our bodies into sending out the wrong immune system response. It flags healthy areas of the intestines as bacteria/foreign instead of the other localized bacteria within the intestines.</p>
 <p>A theory is the bacteria are either creating the circumstances that lead to this mutation or causing it themselves. Because they don’t only redirect the flagging system to destroy healthy tissue, 
 they also use it to create defensive layers around themselves.</p>
 <p>This is in the forms of tissue layers that feel like cysts. Don’t think this happens in the intestines as much but this part happened a little when I had active crohn’s disease but picked up a lot when
- I went fulltime on Humira(very similar to Entyvio just different company).</p>
+ I went fulltime on Humira(anti-tumor necrosis factor).</p>
 
 **Vitamin D 5000 IU**- take this everyday it is a life saver. Can literally feel a difference after taking it everyday for a week. It helps normalize and regulate the immune system. My GI yells at any of his patients that are not taking Vitamin D because people with this illness don’t produce enough generally and need to supplement to make up for it. He also mentioned that there is direct correlation between vitamin D levels and reduction of symptoms, I didn’t research this so can’t confirm, but it feels that way.
 
@@ -41,6 +41,7 @@ My best guess is this is related to the bacteria in your body inducing the defen
 - High fructose corn syrup, this stuff has been linked to tons of gastrointestinal issues and diabetes, it's just bad in general.
 - High sugar content foods, candies, baked goods and similar.
 - Heavy oil or greasy foods can cause issues with this and other gastrointesteinal issues.
+- Sodas and sugary beverages can cause issues as well.
  
 **Prescribed Medication**: SSKI (potassium iodide solution)- this is a high powered vitamin iodide mixture that my GI says can only be done once every 3 months. For some people it works really well. First time I did it my acne/skin issues got worse for a week, but after that it dramatically reduced over the next month.
 Only downside for me atleast, is I think my body built up a resistance to it because after using it for 2 years, it’s not nearly as effective. Taking a break for 2 years then going to try it again.
@@ -88,19 +89,19 @@ IN PROGRESS
 
 ### Humira
 
-**Summary**
+**Summary**<p> Anti-tumor necrosis factor. An auto-injector used once every 2 weeks. </p>
 
 **Side Effects**
 
-**Benefits**
+**Benefits**<p>Currently the best treatment for UC and CD in the intestines.</p>
 
 
 ### Remicade
 
-**Summary**
+**Summary**<p> Very strong anti-inflammatory that has to be intravenously fed to body over the course of 6-8 hours once per month. </p>
 
 **Side Effects**
 
-**Benefits**
+**Benefits**<p> Reduces inflammation and pain in the intestines</p>
 
 	
