@@ -6,7 +6,7 @@ Many websites utilize gamification to increase user experience, engagement, and 
 
 In some simple scenarios, a ranking system based off points acquired is all that is necessary to get users to enjoy the system. Increasing the complexity in different ways from there can increase engagement even further.
 
-On the other side of the equation if the gamification complexity is too much, the users will get confused or overwhelmed and won’t interact as much. Also if they think the system isn’t fair,too challenging, or too easy they will do the same. 
+On the other side of the equation if the gamification complexity is too much, the users will get confused or overwhelmed and won’t interact as much. Also if they think the system isn’t fair, too challenging, or too easy they will do the same. 
 
 The trick is to find that fine line between challenging and forgiving. Knowing when to apply both and how to use the basic structure mechanics of a gamification system to get the desired results.
 
@@ -39,17 +39,18 @@ This chart is from dungeons and dragon 5th edition leveling system. A perfect ex
    
   - Can be seen as a status symbol for some users as a representation of the effort and time they have dedicated to the application.
   - Adding badges for different level brackets can help increase interaction as it gives users something to set as a goal.
-  - Perks for different level brackets can help increase engagement as well. The perks should have a side effect of increasing engagement through interaction with the system or other 	users.
+  - Perks for different level brackets can help increase engagement as well. The perks should have a side effect of increasing engagement through interaction with the system or other users.
 
 3. **Points to Next Level**
 
     > The amount of points required to progress to the next level. This amount can vary and should not follow a linear or exponential algorithm.
    
-  - The reason being is if it is linear or exponential the difficulty of progression will either be 	too fast or too slow depending on how the algorithms are setup. 
-  - The user shouldn’t level too fast or too slow, but move at a finely tuned pace that sets up 	the maximum amount of interaction and engagement. This will have to be tested through 	trial and error, analytics and other metrics to gauge which the right values.
-  - Another point to note is that setting the Points to Next Level as  flat rounded up numbers in 	the hundreds and thousands are preferred. 
-  - Psychologically humans prefer these numbers because of metric system and 			common use in society.
+  - The reason being is if it is linear or exponential the difficulty of progression will either be too fast or too slow depending on how the algorithms are setup. 
+  - The user shouldn’t level too fast or too slow, but move at a finely tuned pace that sets up the maximum amount of interaction and engagement. This will have to be tested through trial and error, analytics and other metrics to gauge the right values.
+  - Another point to note is that setting the Points to Next Level as flat rounded up numbers in the hundreds and thousands are preferred. 
+  - Psychologically humans prefer these numbers because of metric system and common use in society.
   - It is also easy to interpret and set as a goal.
+  - Don't use static numbers for this value either such as every level you need 100 points, but you get less points per interaction as you level up. This feels like a treadmill to the user.
 
 
 4. **Relative Percentage to Progress**
